@@ -23,7 +23,7 @@ import org.springframework.jdbc.core.RowMapper;
 import org.springframework.jdbc.datasource.DriverManagerDataSource;
 
 import com.demo.model.DbModel;
-
+// Added Comments
 @Configuration
 @EnableBatchProcessing
 public class BatchConfiguration {
